@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Công biết mấy bạn tốt mà',
     messDesc: 'gửi đi nha. không gửi là chos',
     btnAccept: 'ok luôn ',
-    messLink: 'http://cong21' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://congdz.2k1/bozz' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
